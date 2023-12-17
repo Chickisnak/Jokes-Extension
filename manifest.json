@@ -1,0 +1,12 @@
+{
+  "name":"Joke of the Day",
+  "version":"1.0.0",
+  "description":"Laughing is the best medicine.",
+  "manifest_version":3,
+  "action":{
+    "default_popup":"index.html",
+    "default_title":"Joke of the Day"
+  },
+  "author":"Akhand Pratap Singh",
+  "incognito":"not_allowed"
+}

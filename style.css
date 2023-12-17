@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.main{
+  min-width: 200px;
+  height: auto;
+  padding: 2px 4px;
+  text-align: center;
+  background-color: yellowgreen;
+}
+
+.main #btn{
+  border-radius: 10px;
+  background-color: blueviolet;
+  outline: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: x-large;
+}
+
+.main #joke{
+  font-size: large;
+  font-weight: 500;
+}
